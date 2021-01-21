@@ -2,7 +2,7 @@
 *You need download data to project folder and unpack it as (project folder)/chest_xray/* :
 https://drive.google.com/drive/folders/11JOEyqiOO608zGh1A3TK-DIJi6094dS2?usp=sharing
 
-*Also you cna download my saved models to project folder and unpack it as (project folder)/saved_models/* :
+*Also you can download my saved models to project folder and unpack it as (project folder)/saved_models/* :
 https://drive.google.com/drive/folders/1OrRg5IsbBWHF0DWIVGqdycRfK-DlNbUN?usp=sharing
 ### Jupyter Notebook files:
   - inceptionv3_clf.ipynb - Model trained on InceptionV3 (best result)
