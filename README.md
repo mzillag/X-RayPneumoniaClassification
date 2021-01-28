@@ -5,7 +5,8 @@ https://drive.google.com/drive/folders/11JOEyqiOO608zGh1A3TK-DIJi6094dS2?usp=sha
 *Also you cna download my saved models to project folder and unpack it as (project folder)/saved_models/* :
 https://drive.google.com/drive/folders/1OrRg5IsbBWHF0DWIVGqdycRfK-DlNbUN?usp=sharing
 ### Jupyter Notebook files:
-  - inceptionv3_clf.ipynb - Model trained on InceptionV3 (best result)
+  - inceptionv3_clf_layers_unlocked.ipynb - Model trained on InceptionV3 with all layers unlocked(best result)
+  - inceptionv3_clf.ipynb - Model trained on InceptionV3 
   - myCNN_clf.ipynb - Model trained on CNN writed by myself
   - resnet101_vgg16_clf.ipynb - Models trained on VGG16 and ResNet101
   - resnet101_bs64_vgg16_clf.ipynb - Models trained on ResNet101 (batch_size=64) and VGG16 
